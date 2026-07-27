@@ -1,1 +1,0 @@
- <input type="file" id="noteImageInput" accept="image/*"></input>
